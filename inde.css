@@ -47,6 +47,7 @@ i,label{
 display:flex;
     justify-content:center;
     align-items:center;
+    display:block;
 }
 /* Clear floats after the columns */
 
