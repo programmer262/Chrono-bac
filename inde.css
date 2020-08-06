@@ -16,6 +16,7 @@ h1 {
 }
 
 button {
+    width:100%;
     background-color: blue;
     letter-spacing: 5px;
     color: #f1f1f1;
