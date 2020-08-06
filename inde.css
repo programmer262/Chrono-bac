@@ -43,7 +43,11 @@ color:black}
     margin: 0 -5px;
 }
 
-
+i,label{
+display:flex;
+    justify-content:center;
+    align-items:center;
+}
 /* Clear floats after the columns */
 
 .row:after {
